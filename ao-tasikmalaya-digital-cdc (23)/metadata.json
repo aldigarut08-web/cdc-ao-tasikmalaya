@@ -1,0 +1,10 @@
+{
+  "name": "AO Tasikmalaya Digital CDC",
+  "description": "Platform survey CDC digital, tracking SPB, event survey, dan hajatan untuk tim Marketing AO Tasikmalaya.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
