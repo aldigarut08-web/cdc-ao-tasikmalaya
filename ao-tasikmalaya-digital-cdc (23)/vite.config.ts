@@ -70,6 +70,7 @@ export default defineConfig(() => {
       react(),
       tailwindcss(),
       aistudioMediaPlugin(),
+      base: './',
     ],
     build: {
       target: ['es2017', 'chrome58', 'edge79', 'firefox57', 'safari11'],
